@@ -1,5 +1,9 @@
 # Figma, HTML e CSS
 
+### Screenshot
+
+![](screenshot.png)
+
 https://imersao.dev/aulas/aula09-figma-html-css
 
 ### Conteúdo detalhado desta aula:
